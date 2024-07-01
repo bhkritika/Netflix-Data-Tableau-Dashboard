@@ -39,3 +39,5 @@ The dataset used in this project consists of the following columns:
 - **README.md**: This readme file.
 
 ## Dashboard 
+
+![Netflix](https://github.com/bhkritika/Netflix-Data-Tableau-Dashboard/assets/141895513/dfc9b370-5c62-44d0-af3b-6712ff889234)
